@@ -2,8 +2,8 @@
 
 Welcome to DPI-691M - Programming and Data for Policymakers!
 
-* Instructor: [Dhrumil Mehta](https://www.hks.harvard.edu/faculty/dhrumil-mehta)
-* Course Assistants: Jacob Jameson, Patrick Song
+* Instructor: [Dhrumil Mehta](https://www.hks.harvard.edu/faculty/dhrumil-mehta) & Aarushi Sahejpal
+* Course Assistants: 
 * Faculty Assistant: Melissa Kappotis
 
 Logistics
