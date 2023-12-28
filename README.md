@@ -12,14 +12,13 @@ Logistics
 * Timings
 	* Section A: 10am - 2pm Eastern
 	* Section B: 4pm - 8pm Eastern 
-	* Office Hours: 2-4pm on Gather (or by appointment)
+	* Office Hours: 
 * Syllabus: [./syllabus.pdf](./syllabus.pdf)
 * Slack: [https://code4policy.slack.com](https://code4policy.slack.com)
-* Gather Town: [https://app.gather.town/app/IbWU0sXjziaY4WOl/code4policy](https://app.gather.town/app/IbWU0sXjziaY4WOl/code4policy)
 * Reflection Forms: 
-	* [Agile Reflection](https://docs.google.com/forms/d/e/1FAIpQLScLvu2N-o-avZ7mN1wkV-fyM04xH2-cii2G3UI6JPVSA0h-2Q/viewform?usp=sf_link)
-	* [Tech Reflection](https://docs.google.com/forms/d/e/1FAIpQLSe5yBe2MVtKRQs-VJQgTHIDpTiM9ZLMFd4q0QOLMGrP6r09nw/viewform?usp=sf_link)
-	* [Journal Entry](https://docs.google.com/forms/d/e/1FAIpQLSer8Y_Sp-4uCofG3tNDdCYUhc76OyvzSgkGPFiGCNIQ-0dGSw/viewform?usp=sf_link)
+	* [Agile Reflection](https://docs.google.com/forms/d/e/1FAIpQLSf6oqqpkK1BxR16jIjOcKGArjr16sJmkX485I-bMRA4R6KtWA/viewform?usp=pp_url&entry.1652117491=January+2024)
+	* [Tech Reflection](https://docs.google.com/forms/d/e/1FAIpQLSfY50XhO_jw-qklDqn0SLKbWgmDCFsMvanPWEhrOQDapthQtg/viewform?usp=pp_url&entry.931428969=January+2024)
+	* [Journal Entry](https://docs.google.com/forms/d/e/1FAIpQLSdK2saZJZCNUWZRgbIFp1jVrnddQgGY7Ls30GW-EN5iAtGUXw/viewform?usp=pp_url&entry.1492947786=January+2024)
 
 # Day 0
 Like any good programmer, we start our counting with 0...
