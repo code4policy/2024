@@ -1,10 +1,15 @@
 ## Pre-Course Work
 
-Welcome to Programming and Data for Policymakers! I'm excited that you've chosen to spend your J-term rolling up your sleeves and writing some code! Please make sure to do the following before the first day of class:
+Welcome to Programming and Data for Policymakers! We're excited that you've chosen to spend your J-term rolling up your sleeves and writing some code! Please make sure to do the following before the first day of class:
 
-1. Fill out the [pre-course survey](https://forms.gle/f1he8BWmbsUmey3g9). 
+1. Fill out the [pre-course survey](https://docs.google.com/forms/d/e/1FAIpQLSeGhGIpTt1Qic_sujq1gWXj5iwS3WUp9lNjE57KxIYkawrCKw/viewform?usp=pp_url&entry.328886569=January+2024). 
 2. Join the class [Slack](https://join.slack.com/t/code4policy/signup) chat.
-3. Complete Chapters 1-8 and 11-14 of [Python's Not (Just) For Unicorns](http://littlecolumns.com/learn/python/). [Due Jan 3]
+
+If you're new to programming, you may also consider completing as much of the following as you are able before the start of class:
+
+3. Complete Chapters 1-8 and 11-14 of [Python's Not (Just) For Unicorns](http://littlecolumns.com/learn/python/). **[Due Wed. Jan 3]**
+4. Complete Chapters 16-22 and 24-27 (Lists & Dictionaries) **[Due by Sun. Jan 7]**
+
 
 ## Course Materials
 
@@ -18,11 +23,11 @@ Welcome to Programming and Data for Policymakers! I'm excited that you've chosen
 
 Knowing programming is not a prerequisite for this course, but having experience with some of the basic concepts will help things move a little more smoothly. I will not be assuming prior knowledge for the class, so don't worry if its all new to you. **If you're new to coding, I'd highly encourage you to complete the introduction (Chapters 1-8 and 11-14) of [Python's Not (Just) For Unicorns](http://littlecolumns.com/learn/python/) before the class starts.**  
 
-Introduction **[Due by Tues Jan 3]**
+Introduction **[Due by Wed. Jan 3]**
 
 - Chapters 1-8 and 11-14
 
-Lists & Dictionaries **[Due by Sun. Jan 8]**
+Lists & Dictionaries **[Due by Sun. Jan 7]**
 
 - Chapters 16-22 and 24-27
 
@@ -35,4 +40,4 @@ While only the introduction is due on the second day of class, if you're feeling
 >2. Become familiar as well as some basic concepts (variables, lists, strings, logic). It will be easier to learn and use these concepts in class if you've encountered them before. 
 >3. Help you learn to think through coding problems and teach you some of the skills you will need to debug and get yourself un-stuck
 
-If you have any questions or concerns, feel free to message me in the class Slack! See you soon!
+The goal for now is not mastery, but familiarity. If you have any questions or concerns, feel free to message me in the class Slack! See you soon!
