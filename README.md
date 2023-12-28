@@ -25,7 +25,6 @@ Like any good programmer, we start our counting with 0...
 
 file | description
 -----|------------
-[syllabus.pdf](syllabus.pdf) | Syllabus
 [precoursework.md](precoursework.md) | Pre-course Work
 [setup/](https://github.com/code4policy/modules/tree/master/setup) | Windows and Mac Setup
 
