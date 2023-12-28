@@ -3,7 +3,7 @@
 Welcome to DPI-691M - Programming and Data for Policymakers!
 
 * Instructor: [Dhrumil Mehta](https://www.hks.harvard.edu/faculty/dhrumil-mehta) & Aarushi Sahejpal
-* Course Assistants: 
+* Course Assistants: Innocent Munai & Hileamlak Mulugeta Yitayew
 * Faculty Assistant: Melissa Kappotis
 
 Logistics
@@ -12,7 +12,7 @@ Logistics
 * Timings
 	* Section A: 10am - 2pm Eastern
 	* Section B: 4pm - 8pm Eastern 
-	* Office Hours: 
+	* Office Hours: TBD
 * Syllabus: [./syllabus.pdf](./syllabus.pdf)
 * Slack: [https://code4policy.slack.com](https://code4policy.slack.com)
 * Reflection Forms: 
