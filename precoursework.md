@@ -24,8 +24,10 @@ While only the introduction is due on the second day of class, if you're feeling
 > 1. Build the muscle memory of writing code (not misspelling commands, closing brackets you open, etc...)
 > 2. Become familiar as well as some basic concepts (variables, lists, strings, logic). It will be easier to learn and use these concepts in class if you've encountered them before. 
 > 3. Help you learn to think through coding problems and teach you some of the skills you will need to debug and get yourself un-stuck
+>
+> The goal, for now, is not mastery, but familiarity.
 
-The goal for now is not mastery, but familiarity. If you have any questions or concerns, feel free to message me in the class Slack! See you soon!
+If you have any questions or concerns, feel free to message me in the class Slack! 
 
 
 ## Additional Course Materials
