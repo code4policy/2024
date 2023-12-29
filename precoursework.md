@@ -27,7 +27,7 @@ While only the introduction is due on the second day of class, if you're feeling
 >
 > The goal, for now, is not mastery, but familiarity.
 
-If you have any questions or concerns, feel free to message the #help channel in the class Slack! 
+If you have any questions or concerns, feel free to message the `#help` channel in the class Slack! 
 
 
 ## Additional Course Materials
