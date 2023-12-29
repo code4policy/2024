@@ -9,7 +9,7 @@ If you're new to programming, it is **highly recommended that you start on the i
 	
 ## Intro Assignment
 
-Knowing programming is not a prerequisite for this course, but having experience with some of the basic concepts will help things move a little more smoothly. We will not be assuming prior knowledge for the class, so don't worry if its all new to you. **If you're new to coding, We'd highly encourage you to complete the Introduction (Chapters 1-8) and start on Conditions & Debugging (Chapters 11-14) of [Python's Not (Just) For Unicorns](http://littlecolumns.com/learn/python/) before the class starts.**  
+Knowing programming is not a prerequisite for this course, but having experience with some of the basic concepts will help things move a little more smoothly. We will not be assuming prior knowledge for the class, so don't worry if its all new to you. **If you're new to coding, we highly encourage you to complete the Introduction (Chapters 1-8) and start on Conditions & Debugging (Chapters 11-14) of [Python's Not (Just) For Unicorns](http://littlecolumns.com/learn/python/) before the class starts.**  
 
 - Chapters 1-8, Introduction **[Due by Tues. Jan 2]**
 - Chapters 11-14, Conditions & Debugging **[Due by Fri. Jan 5]**
