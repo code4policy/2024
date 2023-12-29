@@ -5,11 +5,11 @@ Welcome to Programming and Data for Policymakers! We're excited that you've chos
 1. Fill out the [pre-course survey](https://docs.google.com/forms/d/e/1FAIpQLSeGhGIpTt1Qic_sujq1gWXj5iwS3WUp9lNjE57KxIYkawrCKw/viewform?usp=pp_url&entry.328886569=January+2024). 
 2. Join the class [Slack](https://join.slack.com/t/code4policy/signup) chat.
 
-If you're new to programming, it is **highly recommended that you start on the intro assignment** (see below) before the course starts.
+If you're new to programming, it is **highly recommended that you start on the intro assignment** (see below) before the course starts. Please also see the required course materials in the "Additional Course Materials" section below.
 	
 ## Intro Assignment
 
-Knowing programming is not a prerequisite for this course, but having experience with some of the basic concepts will help things move a little more smoothly. We will not be assuming prior knowledge for the class, so don't worry if its all new to you. **If you're new to coding, We'd highly encourage you to complete the introduction (Chapters 1-8 and 11-14) of [Python's Not (Just) For Unicorns](http://littlecolumns.com/learn/python/) before the class starts.**  
+Knowing programming is not a prerequisite for this course, but having experience with some of the basic concepts will help things move a little more smoothly. We will not be assuming prior knowledge for the class, so don't worry if its all new to you. **If you're new to coding, We'd highly encourage you to complete the Introduction (Chapters 1-8) and start on Conditions & Debugging (Chapters 11-14) of [Python's Not (Just) For Unicorns](http://littlecolumns.com/learn/python/) before the class starts.**  
 
 - Chapters 1-8, Introduction **[Due by Tues. Jan 2]**
 - Chapters 11-14, Conditions & Debugging **[Due by Fri. Jan 5]**
@@ -22,8 +22,8 @@ While only the introduction is due on the second day of class, if you're feeling
 > While the pre-work is a Python tutorial, **this isn't a Python class**. We will encounter various technologies in the course, but this tutorial should help you get in the mindset of learning code. It will help you:
 >
 > 1. Build the muscle memory of writing code (not misspelling commands, closing brackets you open, etc...)
->2. Become familiar as well as some basic concepts (variables, lists, strings, logic). It will be easier to learn and use these concepts in class if you've encountered them before. 
->3. Help you learn to think through coding problems and teach you some of the skills you will need to debug and get yourself un-stuck
+> 2. Become familiar as well as some basic concepts (variables, lists, strings, logic). It will be easier to learn and use these concepts in class if you've encountered them before. 
+> 3. Help you learn to think through coding problems and teach you some of the skills you will need to debug and get yourself un-stuck
 
 The goal for now is not mastery, but familiarity. If you have any questions or concerns, feel free to message me in the class Slack! See you soon!
 
