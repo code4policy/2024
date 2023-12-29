@@ -13,7 +13,7 @@ Knowing programming is not a prerequisite for this course, but having experience
 
 - Chapters 1-8, Introduction **[Due by Tues. Jan 2]**
 - Chapters 11-14, Conditions & Debugging **[Due by Fri. Jan 5]**
-- Chapters 16-22, Lists & Loops Dictionaries **[Due by Sun. Jan 7]**
+- Chapters 16-22, Lists & Loops **[Due by Sun. Jan 7]**
 - Chapters 24-27, Dictionaries **[Due by Tues. Jan 9]**
 
 While only the introduction is due on the second day of class, if you're feeling good, feel free to keep going! **Completing this assignment ahead of time will allow you to stay focused on the core content of the class during the J-term.**
