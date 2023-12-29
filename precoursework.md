@@ -6,28 +6,15 @@ Welcome to Programming and Data for Policymakers! We're excited that you've chos
 2. Join the class [Slack](https://join.slack.com/t/code4policy/signup) chat.
 
 If you're new to programming, it is **highly recommended that you start on the intro assignment** (see below) before the course starts.
-
-
-## Course Materials
-
-* A personal computer (Mac, Linux or Windows 10+) **that you have permission to install software on**.
-* [Elements of Scrum](https://www.amazon.com/gp/product/B004O0U74Q/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1) by Chris Sims and Hillary Louise Johnson
-* [SCRUM: A Breathtaking Brief and Agile Introduction](https://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction/dp/193796504X) by Chris Sims and Hillary Louise Johnson
-
-(I like to have these books handy as refernces, but if you want to save a few bucks, the Kindle editions are cheaper and can be read electronically on your browser through the [kindle cloud reader](https://read.amazon.com/) even if you don't own a kindle.)
 	
 ## Intro Assignment
 
-Knowing programming is not a prerequisite for this course, but having experience with some of the basic concepts will help things move a little more smoothly. We will not be assuming prior knowledge for the class, so don't worry if its all new to you. 
-**If you're new to coding, We'd highly encourage you to complete the introduction (Chapters 1-8 and 11-14) of [Python's Not (Just) For Unicorns](http://littlecolumns.com/learn/python/) before the class starts.**  
+Knowing programming is not a prerequisite for this course, but having experience with some of the basic concepts will help things move a little more smoothly. We will not be assuming prior knowledge for the class, so don't worry if its all new to you. **If you're new to coding, We'd highly encourage you to complete the introduction (Chapters 1-8 and 11-14) of [Python's Not (Just) For Unicorns](http://littlecolumns.com/learn/python/) before the class starts.**  
 
-Introduction **[Due by Wed. Jan 3]**
-
-- Chapters 1-8 and 11-14
-
-Lists & Dictionaries **[Due by Sun. Jan 7]**
-
-- Chapters 16-22 and 24-27
+- Chapters 1-8, Introduction **[Due by Tues. Jan 2]**
+- Chapters 11-14, Conditions & Debugging **[Due by Fri. Jan 5]**
+- Chapters 16-22, Lists & Loops Dictionaries **[Due by Sun. Jan 7]**
+- Chapters 24-27, Dictionaries **[Due by Tues. Jan 9]**
 
 While only the introduction is due on the second day of class, if you're feeling good, feel free to keep going! **Completing this assignment ahead of time will allow you to stay focused on the core content of the class during the J-term.**
 
@@ -39,3 +26,12 @@ While only the introduction is due on the second day of class, if you're feeling
 >3. Help you learn to think through coding problems and teach you some of the skills you will need to debug and get yourself un-stuck
 
 The goal for now is not mastery, but familiarity. If you have any questions or concerns, feel free to message me in the class Slack! See you soon!
+
+
+## Additional Course Materials
+
+* A personal computer (Mac, Linux or Windows 10+) **that you have permission to install software on**.
+* [Elements of Scrum](https://www.amazon.com/gp/product/B004O0U74Q/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1) by Chris Sims and Hillary Louise Johnson
+* [SCRUM: A Breathtaking Brief and Agile Introduction](https://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction/dp/193796504X) by Chris Sims and Hillary Louise Johnson
+
+(I like to have these books handy as refernces, but if you want to save a few bucks, the Kindle editions are cheaper and can be read electronically on your browser through the [kindle cloud reader](https://read.amazon.com/) even if you don't own a kindle.)
