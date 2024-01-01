@@ -38,7 +38,7 @@ file | description
 -----|------------
 [Intro (slides)](https://slides.com/dhrumilmehta/hks-intro) | Introduction to the class
 [modules/agile](https://github.com/code4policy/modules/tree/master/agile) | Agile and Scrum Module
-User Stories | < link in slack >
+User Stories | [Section A](https://docs.google.com/presentation/d/1IDh_h4VVm0WFejTT8_3-2Y0UBcc6z1t0EpvTYBkNF98/edit#slide=id.gaa3fa6eaaf_115_45), [Section B](https://docs.google.com/presentation/d/1TaRdm6qsqfFk2x4CL_1KvlKjaeoiELLgardr9nHfomo/edit#slide=id.g1ee45b6671a_2_111)
 
 ### Async
 
