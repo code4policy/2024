@@ -13,7 +13,7 @@ Logistics
 	* Section A: 10am - 2pm Eastern
 	* Section B: 4pm - 8pm Eastern 
 	* Office Hours: TBD
-* Syllabus: [./syllabus.pdf](./syllabus.pdf)
+* Syllabus: [syllabus.md](syllabus.md)
 * Slack: [https://code4policy.slack.com](https://code4policy.slack.com)
 * Reflection Forms: 
 	* [Agile Reflection](https://docs.google.com/forms/d/e/1FAIpQLSf6oqqpkK1BxR16jIjOcKGArjr16sJmkX485I-bMRA4R6KtWA/viewform?usp=pp_url&entry.1652117491=January+2024)
