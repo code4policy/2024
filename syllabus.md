@@ -106,7 +106,7 @@ No prior programming experience is necessary but the course will be rooted in pr
   - For both parts, you will be graded as a team, however, individual participation will be taken into account as well.
 - **Daily Assignments 40%** - in and after class assignments as well as pre-class reading
 - **Class Participation 20%**
-  - In class assignments, participation in class, participation on GitHub, Trello, and slack as well.
+  - In class assignments, participation in class, participation on GitHub, and Slack as well.
 
 ## Academic Honesty
 Students are encouraged to work collaboratively and in groups. Each student’s individual work will be tracked through their commits to GitHub, participation in discussions, submissions of assignments, and through other means. Academic dishonesty will not be tolerated.
