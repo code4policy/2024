@@ -13,7 +13,8 @@ Logistics
 	* Section A: 10am - 2pm Eastern
 	* Section B: 4pm - 8pm Eastern 
 	* Office Hours:
-   		* Hileamlak M. Yitayew (M - S, 3 PM - 4 PM, on [zoom](https://harvard.zoom.us/my/hileamlak?pwd=WjV5RU44ZmlNRnJHUnNJUllvSzBoQT09))
+        * Innocent Munai: Mon - Sat, 2pm - 3pm, in-person (inside our classroom)
+   		* Hileamlak M. Yitayew: Mon - Sat, 3pm - 4pm, on [Zoom](https://harvard.zoom.us/my/hileamlak?pwd=WjV5RU44ZmlNRnJHUnNJUllvSzBoQT09)
 * Syllabus: [syllabus.md](syllabus.md)
 * Slack: [https://code4policy.slack.com](https://code4policy.slack.com)
 * Reflection Forms: 
