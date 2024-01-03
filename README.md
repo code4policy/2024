@@ -31,7 +31,7 @@ file | description
 
 # Week 1
 
-## Day 1 (Jan 3)
+## Day 1 (Jan 2)
 
 ### Sync
 
