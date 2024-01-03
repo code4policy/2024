@@ -46,3 +46,21 @@ User Stories | [Section A](https://docs.google.com/presentation/d/1IDh_h4VVm0WFe
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 GitHub Intro <ul><li>[Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=811469c4-0c47-4a1d-a0c6-ac9e01501327)</li><li>[modules/git/01-intro-git.md](https://github.com/code4policy/modules/tree/master/git/01-intro-git.md)</li><li>[modules/git/02-intro-github.md](https://github.com/code4policy/modules/tree/master/git/02-intro-github.md)</li></ul> | [modules/agile/06-reading.md](https://github.com/code4policy/modules/tree/master/agile/06-reading.md) | [Python's Not (Just) For Unicorns](https://littlecolumns.com/learn/python/) (Ch 1-8 and 11-14) | [Project Brainstorm](https://github.com/code4policy/modules/blob/master/finalproject/brainstorm.md)
+
+## Day 2 (Jan 3)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+[modules/git](https://github.com/code4policy/modules/tree/master/git) | Git and GitHub Overview (Lesson 1 and 2 recap)
+Bad Veggies [section-A](https://github.com/code4policy/bad-veggies-website-section-a) [section-B](https://github.com/code4policy/bad-veggies-website-section-b) | Collaborating on GitHub
+[modules/agile/04-agile-philosophy.md](https://github.com/code4policy/modules/blob/master/agile/04-agile-philosophy.md) | Agile Philosopy
+
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+Command Line <ul><li>Intro [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=301dc6aa-8418-4872-ae10-ac9d0065911f), [file](https://github.com/code4policy/modules/blob/master/commandline/01-intro.md)</li><li>Filesystem [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=543e413a-6664-4ef6-aa83-ac9d00736510), [file](https://github.com/code4policy/modules/blob/master/commandline/02-filesystem.md)</li></ul> | -- | [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) | Project Group Brinstorm
