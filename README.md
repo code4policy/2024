@@ -58,7 +58,6 @@ file | description
 [ ]() | Standup Meeting
 [modules/git](https://github.com/code4policy/modules/tree/master/git) | Git and GitHub Overview (Lesson 1 and 2 recap)
 Bad Veggies [section-A](https://github.com/code4policy/bad-veggies-website-section-a) [section-B](https://github.com/code4policy/bad-veggies-website-section-b) | Collaborating on GitHub
-[modules/agile/04-agile-philosophy.md](https://github.com/code4policy/modules/blob/master/agile/04-agile-philosophy.md) | Agile Philosopy
 
 
 ### Async
