@@ -65,3 +65,21 @@ Bad Veggies [section-A](https://github.com/code4policy/bad-veggies-website-secti
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 Command Line <ul><li>Intro [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3557fdf2-1259-47af-acff-ada40120f966), [file](https://github.com/code4policy/modules/blob/master/commandline/01-intro.md)</li><li>Filesystem [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f90a0d4-c6a8-4ebc-911b-ada40121784c), [file](https://github.com/code4policy/modules/blob/master/commandline/02-filesystem.md)</li></ul> | -- | [Terminus(optional)](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) | Project Group Brainstorm
+
+## Day 3 (Jan 4)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+[modules/agile/04-agile-philosophy.md](https://github.com/code4policy/modules/blob/master/agile/04-agile-philosophy.md) | Agile Philosopy
+[Brainstorm Responses](https://docs.google.com/spreadsheets/d/1g3vycc46gRx3kKI7hLJZAQ9jPr6WMHYoumzvT6X44VI/edit?usp=sharing) | Project Research Mingling / Assign Groups
+[modules/git/03-ssh](https://github.com/code4policy/modules/blob/master/git/03-ssh.md#setup) | SSH Setup
+[modules/commandline](https://github.com/code4policy/modules/tree/master/commandline) | Command Line
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+--| -- | Finish [`universe`](https://classroom.github.com/a/d4WK4RbX) and [`cowsay`](https://classroom.github.com/a/4yAnW2NV) assignments. Start on [`simple-website`](https://classroom.github.com/a/FmU8UsNT). | Group Meetings (decide on topic, brainstorm users, start making user stories). Start on preparing for a [storytime meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md).
