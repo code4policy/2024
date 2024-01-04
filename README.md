@@ -74,7 +74,7 @@ file | description
 -----|------------
 [ ]() | Standup Meeting
 [modules/agile/04-agile-philosophy.md](https://github.com/code4policy/modules/blob/master/agile/04-agile-philosophy.md) | Agile Philosopy
-[Brainstorm Responses](https://docs.google.com/spreadsheets/d/1HgS6x4j6uJxjk-gI93MNg0B4TO9Ej2ujjpz3Q_QUxqo/edit?usp=sharing) | Project Research Mingling / Assign Groups
+[Brainstorm Responses](https://docs.google.com/spreadsheets/d/1g3vycc46gRx3kKI7hLJZAQ9jPr6WMHYoumzvT6X44VI/edit?usp=sharing) | Project Research Mingling / Assign Groups
 [modules/git/03-ssh](https://github.com/code4policy/modules/blob/master/git/03-ssh.md#setup) | SSH Setup
 [modules/commandline](https://github.com/code4policy/modules/tree/master/commandline) | Command Line
 
