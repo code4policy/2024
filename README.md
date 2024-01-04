@@ -12,7 +12,9 @@ Logistics
 * Timings
 	* Section A: 10am - 2pm Eastern
 	* Section B: 4pm - 8pm Eastern 
-	* Office Hours: TBD
+	* Office Hours:
+        * Innocent Munai: Mon - Sat, 2pm - 3pm, in-person (inside our classroom)
+   		* Hileamlak M. Yitayew: Mon - Sat, 3pm - 4pm, in-person (inside our classroom)
 * Syllabus: [syllabus.md](syllabus.md)
 * Slack: [https://code4policy.slack.com](https://code4policy.slack.com)
 * Reflection Forms: 
@@ -56,15 +58,13 @@ file | description
 [ ]() | Standup Meeting
 [modules/git](https://github.com/code4policy/modules/tree/master/git) | Git and GitHub Overview (Lesson 1 and 2 recap)
 Bad Veggies [section-A](https://github.com/code4policy/bad-veggies-website-section-a) [section-B](https://github.com/code4policy/bad-veggies-website-section-b) | Collaborating on GitHub
-[modules/agile/04-agile-philosophy.md](https://github.com/code4policy/modules/blob/master/agile/04-agile-philosophy.md) | Agile Philosopy
 
 
 ### Async
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
-Command Line <ul><li>Intro [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=301dc6aa-8418-4872-ae10-ac9d0065911f), [file](https://github.com/code4policy/modules/blob/master/commandline/01-intro.md)</li><li>Filesystem [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=543e413a-6664-4ef6-aa83-ac9d00736510), [file](https://github.com/code4policy/modules/blob/master/commandline/02-filesystem.md)</li></ul> | -- | [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) | Project Group Brinstorm
-
+Command Line <ul><li>Intro [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3557fdf2-1259-47af-acff-ada40120f966), [file](https://github.com/code4policy/modules/blob/master/commandline/01-intro.md)</li><li>Filesystem [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f90a0d4-c6a8-4ebc-911b-ada40121784c), [file](https://github.com/code4policy/modules/blob/master/commandline/02-filesystem.md)</li></ul> | -- | [Terminus(optional)](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) | Project Group Brainstorm
 
 ## Day 3 (Jan 4)
 
