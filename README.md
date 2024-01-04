@@ -83,3 +83,21 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --| -- | Finish [`universe`](https://classroom.github.com/a/d4WK4RbX) and [`cowsay`](https://classroom.github.com/a/4yAnW2NV) assignments. | Group Meetings (decide on topic, brainstorm users, start making user stories). Start on preparing for a [storytime meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md).
+
+## Day 5 (Jan 5)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+-- | Project Time
+[modules/web](https://github.com/code4policy/modules/tree/master/web) (Lessons 1 & 2)| Basics of the web and the internet
+[modules/web](https://github.com/code4policy/modules/tree/master/web) (Lesson 4)| HTML, CSS, Javascript
+[modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md)| Storytime (pick roles, start fleshing out user stories and personas, start "grooming the backlog")
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+--|Review Storytime and Sprint Planning in Elements of Scrum|Finish [Mozilla Front-end](https://github.com/code4policy/modules/blob/master/web/04-frontend-stack.md) and simple website | Be prepared with user stories at the next class. Finish [Storytime](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) meeting. If you have some, start to break down stories that are too lage into smaller stories. Start to think about which stories you can take on in sprint 1 (MVP).
