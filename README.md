@@ -92,7 +92,7 @@ file | description
 -----|------------
 [ ]() | Standup Meeting
 -- | Project Time
-[modules/web](https://github.com/code4policy/modules/tree/master/web) (Lessons 1 & 2)| Basics of the web and the internet
+[modules/git](https://github.com/code4policy/modules/tree/master/git) (Lessons 4 & 5) | Git from command line
 [modules/web](https://github.com/code4policy/modules/tree/master/web) (Lesson 4)| HTML, CSS, Javascript
 [modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md)| Storytime (pick roles, start fleshing out user stories and personas, start "grooming the backlog")
 
