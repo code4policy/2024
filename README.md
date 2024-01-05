@@ -101,4 +101,4 @@ Start on [simple-website](https://classroom.github.com/a/FmU8UsNT) | Simple Webs
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
---|Review Storytime and Sprint Planning in Elements of Scrum and finish reading Part A of Healthcare.gov case |Finish [Mozilla Front-end](https://classroom.github.com/a/dOxHi2_k) | Be prepared with user stories at the next class. Finish [Storytime](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) meeting. If you have some, start to break down stories that are too lage into smaller stories. Start to think about which stories you can take on in sprint 1 (MVP).
+--|Part A of Healthcare.gov case (in Slack) | Work on [Mozilla Front-end](https://classroom.github.com/a/dOxHi2_k) | Be prepared with user stories at the next class. Have a [Storytime](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) meeting. If you have some, start to break down stories that are too lage into smaller stories. Start to think about which stories you can take on in sprint 1 (MVP).
