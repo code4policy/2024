@@ -123,20 +123,19 @@ Video  | Reading| Coding | Project
 
 # Week 2
 
-## Day 6 (Jan 9)
+## Day 6 (Jan 8)
 
 ### Sync
 
 file | description
 -----|------------
 [ ]() | Standup Meeting (groups)
-Dataviz Guest Lecture | [Reuben Fischer-Baum](https://www.reubenfb.com/)
 [modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | D3.js Visualization
 
 ### Async
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | Read a little bit about our guest speaker, [David Zvenyach](https://www.fedscoop.com/dave-zvenyach-leaving-the-general-services-administration/)'s background and work and come to class prepared with questions for him. This might be a good time to fill out an Agile Reflection (top of page). | [Pandema Flakes Datawrapper Assignment](https://docs.google.com/forms/d/e/1FAIpQLScY65ejzON30-1GPqb0Le2j3QlXruJRMPoZowMVob3N465Nmw/viewform?usp=sf_link) | Sprint 1
+-- | [Pandema Flakes Datawrapper Assignment](https://docs.google.com/forms/d/e/1FAIpQLScY65ejzON30-1GPqb0Le2j3QlXruJRMPoZowMVob3N465Nmw/viewform?usp=sf_link) | Sprint 1
 -- | [The Secret Startup That Saved the Worst Website in America](https://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/) | -- | --
 
