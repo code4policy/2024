@@ -101,3 +101,22 @@ Start on [simple-website](https://classroom.github.com/a/FmU8UsNT) | Simple Webs
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --|Read Part A of Healthcare.gov case (in Slack) | Work on [Mozilla Front-end](https://classroom.github.com/a/dOxHi2_k) | Be prepared with user stories at the next class. Have a [Storytime](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) meeting. If you have some, start to break down stories that are too lage into smaller stories. Start to think about which stories you can take on in sprint 1 (MVP).
+
+## Day 5 (Jan 6)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting (Slack)
+[modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Workshop some user stories (INVEST + definitions of done + story splitting)
+(see slack) | Healthcare.gov case
+[modules/web](https://github.com/code4policy/modules/tree/master/web) (Lesson 4)| finish CSS + Addendum
+[Git in Groups](https://github.com/code4policy/modules/blob/master/git/06-branching.md#%EF%B8%8F-try-it) | Demo project in a group
+[modules/finalproject/03-sprint-planning.md](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md) | Sprint Planning Meeting (Demo)
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+**(optional)** Getting started with your projects [helper video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8aee5c6b-b97a-426e-81c9-acab00224fc0) and [workflows file](https://github.com/code4policy/modules/blob/master/git/12-workflow.md) | [Dataviz video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff067f30-d6a7-46d5-92cb-ada4012176d1) **(required)** + Atlassian roundtable **(optional)** - practitioners discussing agile estimation ([youtube](https://www.youtube.com/watch?v=_N5gj9gzOjg)) | Complete unfinished assignments (Python not just for unicorns, [16-22 and 24-27](https://github.com/code4policy/2022/blob/main/precoursework.md#intro-assignment), lists & dictionaries) | <ul><li>Finish [Storytime Meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) </li><li> Finish [Sprint Planning Meeting](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md)</li><li>Work on Sprint 1 (ends Tuesday)</li></ul>
