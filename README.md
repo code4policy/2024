@@ -111,6 +111,7 @@ file | description
 -----|------------
 [ ]() | Standup Meeting (Slack)
 [modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Workshop some user stories (INVEST + definitions of done + story splitting)
+(see slack) | Healthcare.gov case
 [modules/web](https://github.com/code4policy/modules/tree/master/web) (Lesson 4)| finish CSS + Addendum
 [Git in Groups](https://github.com/code4policy/modules/blob/master/git/06-branching.md#%EF%B8%8F-try-it) | Demo project in a group
 [modules/finalproject/03-sprint-planning.md](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md) | Sprint Planning Meeting (Demo then gather town)
