@@ -120,3 +120,23 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 **(optional)** Getting started with your projects [helper video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8aee5c6b-b97a-426e-81c9-acab00224fc0) and [workflows file](https://github.com/code4policy/modules/blob/master/git/12-workflow.md) | [Dataviz video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff067f30-d6a7-46d5-92cb-ada4012176d1) **(required)** + Atlassian roundtable **(optional)** - practitioners discussing agile estimation ([youtube](https://www.youtube.com/watch?v=_N5gj9gzOjg)) | Complete unfinished assignments (Python not just for unicorns, [16-22 and 24-27](https://github.com/code4policy/2022/blob/main/precoursework.md#intro-assignment), lists & dictionaries) | <ul><li>Finish [Storytime Meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) </li><li> Finish [Sprint Planning Meeting](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md)</li><li>Work on Sprint 1 (ends Tuesday)</li></ul>
+
+# Week 2
+
+## Day 6 (Jan 9)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting (groups)
+Dataviz Guest Lecture | [Reuben Fischer-Baum](https://www.reubenfb.com/)
+[modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | D3.js Visualization
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | Read a little bit about our guest speaker, [David Zvenyach](https://www.fedscoop.com/dave-zvenyach-leaving-the-general-services-administration/)'s background and work and come to class prepared with questions for him. This might be a good time to fill out an Agile Reflection (top of page). | [Pandema Flakes Datawrapper Assignment](https://docs.google.com/forms/d/e/1FAIpQLScY65ejzON30-1GPqb0Le2j3QlXruJRMPoZowMVob3N465Nmw/viewform?usp=sf_link) | Sprint 1
+-- | [The Secret Startup That Saved the Worst Website in America](https://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/) | -- | --
+
