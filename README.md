@@ -130,12 +130,14 @@ Video  | Reading| Coding | Project
 file | description
 -----|------------
 [ ]() | Standup Meeting (groups)
-[modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | D3.js Visualization
+[modules/commandline](https://github.com/code4policy/modules/tree/main/commandline) | Command line lessons 2.5 - 4
+[Principles of DataViz](https://docs.google.com/presentation/d/1wiYI-AoTEzTaDuKFjkRNfrqghuDWTBA5GJIho0aEhfU/edit#slide=id.g2884ecb684e_2_174) | Dhrumil's DataViz Slides + Rubric
+[modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | D3.js Visualization Examples
+[dataviz-with-gpt/](https://github.com/code4policy/dataviz-with-gpt)| Dataviz with ChatGPT
 
 ### Async
 
+
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | [Pandema Flakes Datawrapper Assignment](https://docs.google.com/forms/d/e/1FAIpQLScY65ejzON30-1GPqb0Le2j3QlXruJRMPoZowMVob3N465Nmw/viewform?usp=sf_link) | Sprint 1
--- | [The Secret Startup That Saved the Worst Website in America](https://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/) | -- | --
-
+-- | Finish Case part A & B **and** The Atlantic article | [functions](https://github.com/code4policy/modules/blob/main/codeconcepts/function.md) assignment | Sprint 1! 
