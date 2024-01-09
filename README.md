@@ -141,3 +141,22 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | Finish Case part A & B **and** The Atlantic article | [functions](https://github.com/code4policy/modules/blob/main/codeconcepts/function.md) assignment | Sprint 1! 
+
+## Day 7 (Jan 9)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting (groups)
+-- | Healthcare.gov Case
+-- | Review [functions](https://github.com/code4policy/modules/blob/main/codeconcepts/function.md) assignment
+[modules/data](https://github.com/code4policy/modules/tree/master/data) | Getting started with data in Python
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | -- | [cli-filter](https://classroom.github.com/assignment-invitations/d86f14ec5bde00a16617dd31696d0eda) - Due Fri. | Sprint 1 Due!
+
+
