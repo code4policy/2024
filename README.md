@@ -174,4 +174,4 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | -- | [cli-filter](https://classroom.github.com/assignment-invitations/d86f14ec5bde00a16617dd31696d0eda) - Due Fri. | Sprint 2 begins! Have a StoryTime and Sprint Planning Meeting.
+-- | -- | [cli-filter](https://classroom.github.com/assignment-invitations/d86f14ec5bde00a16617dd31696d0eda) | Sprint 2 begins! Have a StoryTime and Sprint Planning Meeting.
