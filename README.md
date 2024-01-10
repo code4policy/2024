@@ -169,7 +169,6 @@ file | description
 -- | Sprint Review
 -- | [Sprint Retrospective](https://forms.gle/3ZYRRYRnzANs6NVn7)
 -- | Santiago Garces (CIO of Boston 4-5pm ET - Section B)
-[modules/data](https://github.com/code4policy/modules/tree/main/data) | Start on Data Module (Section A)
 
 ### Async
 
