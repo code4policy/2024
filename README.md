@@ -157,6 +157,6 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | -- | [cli-filter](https://classroom.github.com/assignment-invitations/d86f14ec5bde00a16617dd31696d0eda) - Due Fri. | Sprint 1 Due! Bring a hat 🧢 to class!
+-- | -- | | Sprint 1 Due! Bring a hat 🧢 to class!
 
 
