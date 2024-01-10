@@ -157,6 +157,22 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | -- | | Sprint 1 Due! Bring a hat 🧢 to class!
+-- | -- | -- | Sprint 1 Due! Bring a hat 🧢 to class!
 
 
+## Day 8 (Jan 10)
+
+### Sync
+
+file | description
+-----|------------
+-- | Sprint Review
+-- | [Sprint Retrospective](https://forms.gle/3ZYRRYRnzANs6NVn7)
+-- | Santiago Garces (CIO of Boston 4-5pm ET - Section B)
+[modules/data](https://github.com/code4policy/modules/tree/main/data) | Start on Data Module (Section A)
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | -- | [chart-example](https://github.com/code4policy/chart-example) - required if you're not doing a D3 viz for your project, optional otherwise | Sprint 2 begins! Have a StoryTime and Sprint Planning Meeting.
