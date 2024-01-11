@@ -183,14 +183,14 @@ Video  | Reading| Coding | Project
 file | description
 -----|------------
 [ ]() | Standup Meeting
-[modules/data](https://github.com/code4policy/modules/tree/main/data) | Data
-[ ]() | David Eaves
-[conversions](https://classroom.github.com/a/Jln_IPoq) | Conversions
--- | Pair Programming
+[cli-filter](https://classroom.github.com/assignment-invitations/d86f14ec5bde00a16617dd31696d0eda)
+[modules/web](https://github.com/code4policy/modules/tree/master/web) | Web & APIs
+[modules/data](https://github.com/code4policy/modules/tree/main/data) | Data in Python
 
 ### Async
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | -- | Start on [conversions homework](https://classroom.github.com/a/Jln_IPoq) | Work on Sprint 2
+-- | [Swartz](https://github.com/code4policy/modules/blob/master/apis/apireadings.md) Chapter 2 (p 9-13); Chapter 3 (all); Chapter 5 (p 31-36)
+ | [FEC-API](https://classroom.github.com/a/Ef2mYUeP) | Sprint 2! 
 
