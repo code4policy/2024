@@ -175,3 +175,22 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | -- | [cli-filter](https://classroom.github.com/assignment-invitations/d86f14ec5bde00a16617dd31696d0eda) | Sprint 2 begins! Have a StoryTime and Sprint Planning Meeting.
+
+## Day 9 (Jan 11)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+[modules/data](https://github.com/code4policy/modules/tree/main/data) | Data
+[ ]() | David Eaves
+[conversions](https://classroom.github.com/a/Jln_IPoq) | Conversions
+-- | Pair Programming
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | -- | Start on [conversions homework](https://classroom.github.com/a/Jln_IPoq) | Work on Sprint 2
+
