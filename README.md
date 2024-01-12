@@ -200,7 +200,6 @@ Video  | Reading| Coding | Project
 file | description
 -----|------------
 [ ]() | Standup Meeting
-[modules/data](https://github.com/code4policy/modules/tree/main/data) | Data
 [ ]() | [FEC-API](https://classroom.github.com/a/Ef2mYUeP) Homework review
 -- | David Zvenyach 
 [web/10-goodbye.md](https://github.com/code4policy/modules/blob/main/web/10-goodbye.md) | Wrapping up!
