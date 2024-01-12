@@ -201,8 +201,6 @@ Video  | Reading| Coding | Project
 
 ## Day 10 (Jan 13) 🎉
 
-
-
 ### Sync
 
 file | description
@@ -217,4 +215,4 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | [Course Evaluations!](canvas.harvard.edu) (on the canvas page for this class) | [conversions homework](https://classroom.github.com/a/Jln_IPoq) (just one example), and Python Data through 3-4 (Datetime). | [Submit Project](https://github.com/code4policy/modules/blob/main/finalproject/project.md). Don't forget to fill out a [Sprint Retrospective](https://docs.google.com/forms/d/e/1FAIpQLSePfDHMonIleOPRNHqEz3S4yYAern1CIMedsg9XECOv5trG0A/viewform?usp=pp_url&entry.787611179=2023)
+-- | [Course Evaluations!](canvas.harvard.edu) (on the canvas page for this class) | [conversions homework](https://classroom.github.com/a/Jln_IPoq) | [Submit Project](https://github.com/code4policy/modules/blob/main/finalproject/project.md). Don't forget to fill out a [Sprint Retrospective](https://docs.google.com/forms/d/e/1FAIpQLSePfDHMonIleOPRNHqEz3S4yYAern1CIMedsg9XECOv5trG0A/viewform?usp=pp_url&entry.787611179=2023) and any final reflection forms you'd like.
