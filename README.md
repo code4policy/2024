@@ -193,3 +193,21 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | [Swartz](https://github.com/code4policy/modules/blob/master/apis/apireadings.md) Chapter 2 (p 9-13); Chapter 3 (all); Chapter 5 (p 31-36) | [FEC-API](https://classroom.github.com/a/Ef2mYUeP) | Sprint 2! 
 
+## Day 10 (Jan 13) 🎉
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+[modules/data](https://github.com/code4policy/modules/tree/main/data) | Data
+[ ]() | [FEC-API](https://classroom.github.com/a/Ef2mYUeP) Homework review
+-- | David Zvenyach 
+[web/10-goodbye.md](https://github.com/code4policy/modules/blob/main/web/10-goodbye.md) | Wrapping up!
+
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | [Course Evaluations!](canvas.harvard.edu) (on the canvas page for this class - Due Thursday, January 18) | [conversions homework](https://classroom.github.com/a/Jln_IPoq) (just one example), and Python Data through 3-4 (Datetime). | [Submit Project](https://github.com/code4policy/modules/blob/main/finalproject/project.md). Don't forget to fill out a [Sprint Retrospective](https://docs.google.com/forms/d/e/1FAIpQLSePfDHMonIleOPRNHqEz3S4yYAern1CIMedsg9XECOv5trG0A/viewform?usp=pp_url&entry.787611179=2023)
